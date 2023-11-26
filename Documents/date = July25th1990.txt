@@ -1,0 +1,9 @@
+date = "July/25th/1990"
+print("Here's the date we created: " + date)
+split_date = date.split('/')
+print("Here's the date we enterted split apart: ")
+print(split_date)
+another_name = 'DiAnE'
+print("we chose the name: " + another_name)
+print("Here's " + another_name + " written with the cases
+      +another_name.swapcase())
